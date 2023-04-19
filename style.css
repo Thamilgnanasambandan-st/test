@@ -1,0 +1,108 @@
+@font-face {
+  font-family: 'icomoon';
+  src:  url('fonts/icomoon.eot?xed4f1');
+  src:  url('fonts/icomoon.eot?xed4f1#iefix') format('embedded-opentype'),
+    url('fonts/icomoon.ttf?xed4f1') format('truetype'),
+    url('fonts/icomoon.woff?xed4f1') format('woff'),
+    url('fonts/icomoon.svg?xed4f1#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+.hbl {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.hbl-appointment:before {
+  content: "\e900";
+}
+.hbl-bottom:before {
+  content: "\e901";
+}
+.hbl-calander:before {
+  content: "\e902";
+}
+.hbl-client:before {
+  content: "\e903";
+}
+.hbl-currencies:before {
+  content: "\e904";
+}
+.hbl-delete:before {
+  content: "\e905";
+}
+.hbl-description:before {
+  content: "\e906";
+}
+.hbl-designation:before {
+  content: "\e907";
+}
+.hbl-dropdown:before {
+  content: "\e908";
+}
+.hbl-edit:before {
+  content: "\e909";
+}
+.hbl-check:before {
+  content: "\e90a";
+}
+.hbl-efficiency:before {
+  content: "\e90b";
+}
+.hbl-left:before {
+  content: "\e90c";
+}
+.hbl-module:before {
+  content: "\e90d";
+}
+.hbl-permissions:before {
+  content: "\e90e";
+}
+.hbl-plus:before {
+  content: "\e90f";
+}
+.hbl-project:before {
+  content: "\e910";
+}
+.hbl-right:before {
+  content: "\e911";
+}
+.hbl-role:before {
+  content: "\e912";
+}
+.hbl-search-icon:before {
+  content: "\e913";
+}
+.hbl-status:before {
+  content: "\e914";
+}
+.hbl-task:before {
+  content: "\e915";
+}
+.hbl-team:before {
+  content: "\e916";
+}
+.hbl-time:before {
+  content: "\e917";
+}
+.hbl-top:before {
+  content: "\e918";
+}
+.hbl-user:before {
+  content: "\e919";
+}
+.hbl-view:before {
+  content: "\e91a";
+}
